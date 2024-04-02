@@ -1,0 +1,15 @@
+LensDirt*.png filter=lfs diff=lfs merge=lfs -text
+Walls.fbx filter=lfs diff=lfs merge=lfs -text
+SleepingGuard.fbx filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+StartLevelCutscene.fbx filter=lfs diff=lfs merge=lfs -text
+GetCard.fbx filter=lfs diff=lfs merge=lfs -text
+EndLevel.fbx filter=lfs diff=lfs merge=lfs -text
+CapturedAnimation.anim filter=lfs diff=lfs merge=lfs -text
+Captured.fbx filter=lfs diff=lfs merge=lfs -text
+Kneepad_Normal.png filter=lfs diff=lfs merge=lfs -text
+Darren[[:space:]]Flight.fbx filter=lfs diff=lfs merge=lfs -text
+Main_Menu_Music.wav filter=lfs diff=lfs merge=lfs -text
+Ambient_Background_Music.wav filter=lfs diff=lfs merge=lfs -text
+LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Lightmap-3_comp_light.exr filter=lfs diff=lfs merge=lfs -text
